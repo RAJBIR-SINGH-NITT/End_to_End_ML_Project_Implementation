@@ -1,0 +1,4 @@
+Flask
+numpy
+pamdas
+scikit-learn
